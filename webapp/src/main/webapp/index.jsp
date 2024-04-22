@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Hello World, please register!</h1>
-    <h4>Devops tools used: Jenkins, Docker Ansible, Kubernetes</h4>
+    <h4>Devops tools used: Jenkins, Docker, Ansible, Kubernetes</h4>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
